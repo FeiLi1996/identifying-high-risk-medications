@@ -4,4 +4,4 @@ Identifying high risk medications in Excel
 
 
 # Video Demonstration
-Coming soon!
+https://youtu.be/Ks67weiJzGU
